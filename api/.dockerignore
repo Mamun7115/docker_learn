@@ -1,0 +1,6 @@
+
+# ignore the node modules from this folder..so it doesnt copy this into actual docker isolated environment
+node_modules
+
+# it just means ignore any file with extension of .md
+*.md 
